@@ -8,17 +8,22 @@
     "name": "Erik Stattin"
   },
   "created": "2026-11-15T14:05:48Z",
-  "updated": "2026-11-15T14:05:48Z",
-  "version": 1,
-  "content_md": "[Celia Paul: ‘Writing is a journey on the ground. Whereas if you paint you see everything at once’](https://archive.is/Vw72n#selection-1151.0-1159.65)\n\n> We are now outside the Pensione Calcina, where the art critic and writer John Ruskin took a room in 1876–1877 while working on _The Stones of Venice_. “It’s also where Annie Ernaux stayed when she wrote _Simple Passion_,” says Paul. Ernaux’s book charted an all-consuming love affair.",
-  "content_html": "<p><a href=\"https://archive.is/Vw72n#selection-1151.0-1159.65\">Celia Paul: ‘Writing is a journey on the ground. Whereas if you paint you see everything at once’</a></p>\n<blockquote>\n<p>We are now outside the Pensione Calcina, where the art critic and writer John Ruskin took a room in 1876–1877 while working on <em>The Stones of Venice</em>. “It’s also where Annie Ernaux stayed when she wrote <em>Simple Passion</em>,” says Paul. Ernaux’s book charted an all-consuming love affair.</p>\n</blockquote>\n",
-  "content_hash": "sha256:ed98ffb1c48bf017995e11b8d27fcb4ebaf53477c24a9172a572d7e7154b91cd",
+  "updated": "2026-11-15T16:05:32Z",
+  "version": 2,
+  "content_md": "[Celia Paul: ‘Writing is a journey on the ground. Whereas if you paint you see everything at once’](https://archive.is/Vw72n#selection-1151.0-1159.65)\n\n> Her Venetian apartment, criss-crossed with beams on the floor and ceiling “like a spider’s web”, with a little altana, a terrace at the back, was a far cry from her studio opposite the British Museum, her home and place of work for almost 40 years. Freud bought the London flat for her when she was 18 and had just left the Slade (they met at the art school, he a teacher, she a student). It was very much her space. Her husband, Steven, who lived in Kentish Town in northwest London, didn’t have a key and she would work there each day from 6am to dusk.\n\n> We are now outside the Pensione Calcina, where the art critic and writer John Ruskin took a room in 1876–1877 while working on _The Stones of Venice_. “It’s also where Annie Ernaux stayed when she wrote _Simple Passion_,” says Paul. Ernaux’s book charted an all-consuming love affair.",
+  "content_html": "<p><a href=\"https://archive.is/Vw72n#selection-1151.0-1159.65\">Celia Paul: ‘Writing is a journey on the ground. Whereas if you paint you see everything at once’</a></p>\n<blockquote>\n<p>Her Venetian apartment, criss-crossed with beams on the floor and ceiling “like a spider’s web”, with a little altana, a terrace at the back, was a far cry from her studio opposite the British Museum, her home and place of work for almost 40 years. Freud bought the London flat for her when she was 18 and had just left the Slade (they met at the art school, he a teacher, she a student). It was very much her space. Her husband, Steven, who lived in Kentish Town in northwest London, didn’t have a key and she would work there each day from 6am to dusk.</p>\n</blockquote>\n<blockquote>\n<p>We are now outside the Pensione Calcina, where the art critic and writer John Ruskin took a room in 1876–1877 while working on <em>The Stones of Venice</em>. “It’s also where Annie Ernaux stayed when she wrote <em>Simple Passion</em>,” says Paul. Ernaux’s book charted an all-consuming love affair.</p>\n</blockquote>\n",
+  "content_hash": "sha256:859114bc68f0686f1985cae5004516be9a8c6534931c58cc1178651a43427595",
   "media": [],
   "changelog": [
     {
       "version": 1,
       "at": "2026-11-15T14:05:48Z",
       "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-11-15T16:05:32Z",
+      "note": "Added an earlier passage from the interview"
     }
   ],
   "transclusions": []
