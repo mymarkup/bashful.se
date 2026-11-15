@@ -1,0 +1,24 @@
+{
+  "blyg": "0.4",
+  "id": "2c2mwwp4dmzvs6hzfr7bvynjkj",
+  "kind": "fragment",
+  "origin": "https://bashful.se/",
+  "page": "f/2c2mwwp4dmzvs6hzfr7bvynjkj/",
+  "author": {
+    "name": "Erik Stattin"
+  },
+  "created": "2026-11-15T16:40:03Z",
+  "updated": "2026-11-15T16:40:03Z",
+  "version": 1,
+  "content_md": "- William Marx, *Libraries of the Mind*\n",
+  "content_html": "<ul>\n<li>William Marx, <em>Libraries of the Mind</em></li>\n</ul>\n",
+  "content_hash": "sha256:81f6eddb410e4e0c4da11d333d964738b03e274aeb2f6e5852b34fc05ee0f5dc",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-15T16:40:03Z",
+      "note": null
+    }
+  ]
+}

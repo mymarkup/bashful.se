@@ -4,9 +4,25 @@
     <title>bashful</title>
     <link>https://bashful.se/</link>
     <description>bashful</description>
-    <lastBuildDate>Sun, 15 Nov 2026 16:15:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:40:03 GMT</lastBuildDate>
     <blyg:level>2</blyg:level>
     <blyg:manifest>https://bashful.se/blyg.json</blyg:manifest>
+    <item>
+      <guid isPermaLink="false">blyg:2c2mwwp4dmzvs6hzfr7bvynjkj:v1</guid>
+      <link>https://bashful.se/f/2c2mwwp4dmzvs6hzfr7bvynjkj/</link>
+      <title>William Marx, Libraries of the Mind</title>
+      <description><![CDATA[<ul>
+<li>William Marx, <em>Libraries of the Mind</em></li>
+</ul>
+]]></description>
+      <pubDate>Sun, 15 Nov 2026 16:40:03 GMT</pubDate>
+      <dc:creator>Erik Stattin</dc:creator>
+      <blyg:id>2c2mwwp4dmzvs6hzfr7bvynjkj</blyg:id>
+      <blyg:kind>fragment</blyg:kind>
+      <blyg:version>1</blyg:version>
+      <blyg:created>2026-11-15T16:40:03Z</blyg:created>
+      <blyg:item>https://bashful.se/items/2c2mwwp4dmzvs6hzfr7bvynjkj.json</blyg:item>
+    </item>
     <item>
       <guid isPermaLink="false">blyg:3ajd4c83wmjgpcyny6yr6f037w:v2</guid>
       <link>https://bashful.se/f/3ajd4c83wmjgpcyny6yr6f037w/</link>
