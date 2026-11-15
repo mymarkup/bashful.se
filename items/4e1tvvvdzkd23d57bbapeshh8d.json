@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "4e1tvvvdzkd23d57bbapeshh8d",
+  "kind": "thread",
+  "origin": "https://bashful.se/",
+  "page": "t/4e1tvvvdzkd23d57bbapeshh8d/",
+  "author": {
+    "name": "Erik Stattin"
+  },
+  "created": "2026-11-15T15:55:35Z",
+  "updated": "2026-11-15T15:55:35Z",
+  "version": 1,
+  "content_md": "[Plan for Public Intelligence](https://www.isolarii.com/p4pi/#s2)\n\n> 37. The erosion of institutional capacity often masquerades as progress. Drawing on [Amartya Sen](https://www.nobelprize.org/prizes/economic-sciences/1998/sen/lecture/)’s distinction between mere culmination outcomes (isolated end-states) and comprehensive outcomes (which encompass the agency and process of deciding), markets optimized for immediate answers systematically neglect the underlying capacity to produce them—delivering better outputs while gutting the institution’s ability to question, test, or inherit them.",
+  "content_html": "<p><a href=\"https://www.isolarii.com/p4pi/#s2\">Plan for Public Intelligence</a></p>\n<blockquote>\n<ol start=\"37\">\n<li>The erosion of institutional capacity often masquerades as progress. Drawing on <a href=\"https://www.nobelprize.org/prizes/economic-sciences/1998/sen/lecture/\">Amartya Sen</a>’s distinction between mere culmination outcomes (isolated end-states) and comprehensive outcomes (which encompass the agency and process of deciding), markets optimized for immediate answers systematically neglect the underlying capacity to produce them—delivering better outputs while gutting the institution’s ability to question, test, or inherit them.</li>\n</ol>\n</blockquote>\n",
+  "content_hash": "sha256:951c3fbe4d4007a571acee7831c3d54065478f7a6f35c830fd3279620dc77c0c",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-15T15:55:35Z",
+      "note": null
+    }
+  ],
+  "transclusions": []
+}
