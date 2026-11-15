@@ -4,14 +4,30 @@
     <title>bashful</title>
     <link>https://bashful.se/</link>
     <description>bashful</description>
-    <lastBuildDate>Sun, 15 Nov 2026 16:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:15:02 GMT</lastBuildDate>
     <blyg:level>2</blyg:level>
     <blyg:manifest>https://bashful.se/blyg.json</blyg:manifest>
     <item>
+      <guid isPermaLink="false">blyg:3ajd4c83wmjgpcyny6yr6f037w:v2</guid>
+      <link>https://bashful.se/f/3ajd4c83wmjgpcyny6yr6f037w/</link>
+      <title>Added a caption — Noted books.</title>
+      <description><![CDATA[<p><img src="https://bashful.se/media/e24cef93e85c7112.jpg" alt="A handwritten reading list dated 2026-11-14 on squared notebook paper: twelve books, each with a checkbox, from Albert Camus's Complete Notebooks to Avigayl Sharp's Offseason"></p>
+<p>Noted books.</p>
+]]></description>
+      <pubDate>Sun, 15 Nov 2026 16:15:02 GMT</pubDate>
+      <dc:creator>Erik Stattin</dc:creator>
+      <blyg:id>3ajd4c83wmjgpcyny6yr6f037w</blyg:id>
+      <blyg:kind>fragment</blyg:kind>
+      <blyg:version>2</blyg:version>
+      <blyg:created>2026-11-15T16:13:53Z</blyg:created>
+      <blyg:item>https://bashful.se/items/3ajd4c83wmjgpcyny6yr6f037w.json</blyg:item>
+    </item>
+    <item>
       <guid isPermaLink="false">blyg:3ajd4c83wmjgpcyny6yr6f037w:v1</guid>
       <link>https://bashful.se/f/3ajd4c83wmjgpcyny6yr6f037w/</link>
-      <title>(untitled)</title>
+      <title>Noted books.</title>
       <description><![CDATA[<p><img src="https://bashful.se/media/e24cef93e85c7112.jpg" alt="A handwritten reading list dated 2026-11-14 on squared notebook paper: twelve books, each with a checkbox, from Albert Camus's Complete Notebooks to Avigayl Sharp's Offseason"></p>
+<p>Noted books.</p>
 ]]></description>
       <pubDate>Sun, 15 Nov 2026 16:13:54 GMT</pubDate>
       <dc:creator>Erik Stattin</dc:creator>

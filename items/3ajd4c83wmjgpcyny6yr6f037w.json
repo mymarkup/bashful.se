@@ -8,11 +8,11 @@
     "name": "Erik Stattin"
   },
   "created": "2026-11-15T16:13:53Z",
-  "updated": "2026-11-15T16:13:54Z",
-  "version": 1,
-  "content_md": "![A handwritten reading list dated 2026-11-14 on squared notebook paper: twelve books, each with a checkbox, from Albert Camus's Complete Notebooks to Avigayl Sharp's Offseason](media/e24cef93e85c7112.jpg)\n",
-  "content_html": "<p><img src=\"https://bashful.se/media/e24cef93e85c7112.jpg\" alt=\"A handwritten reading list dated 2026-11-14 on squared notebook paper: twelve books, each with a checkbox, from Albert Camus's Complete Notebooks to Avigayl Sharp's Offseason\"></p>\n",
-  "content_hash": "sha256:1fad512a8661c93a0babd36a58580e3b49826749987f764f9323e46880f6ec4b",
+  "updated": "2026-11-15T16:15:02Z",
+  "version": 2,
+  "content_md": "![A handwritten reading list dated 2026-11-14 on squared notebook paper: twelve books, each with a checkbox, from Albert Camus's Complete Notebooks to Avigayl Sharp's Offseason](media/e24cef93e85c7112.jpg)\n\nNoted books.\n",
+  "content_html": "<p><img src=\"https://bashful.se/media/e24cef93e85c7112.jpg\" alt=\"A handwritten reading list dated 2026-11-14 on squared notebook paper: twelve books, each with a checkbox, from Albert Camus's Complete Notebooks to Avigayl Sharp's Offseason\"></p>\n<p>Noted books.</p>\n",
+  "content_hash": "sha256:08a64c7bb15d4b29c33115c5ae23deb467a61bf8c3b798200b3678b0ce7a4c23",
   "media": [
     {
       "url": "media/e24cef93e85c7112.jpg",
@@ -25,6 +25,11 @@
       "version": 1,
       "at": "2026-11-15T16:13:54Z",
       "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-11-15T16:15:02Z",
+      "note": "Added a caption"
     }
   ]
 }
