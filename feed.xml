@@ -4,7 +4,22 @@
     <title>bashful</title>
     <link>https://bashful.se/</link>
     <description>bashful</description>
+    <lastBuildDate>Sun, 15 Nov 2026 13:23:19 GMT</lastBuildDate>
     <blyg:level>2</blyg:level>
     <blyg:manifest>https://bashful.se/blyg.json</blyg:manifest>
+    <item>
+      <guid isPermaLink="false">blyg:4s52t7jxxwd0446bnraf7wpf7z:v1</guid>
+      <link>https://bashful.se/f/4s52t7jxxwd0446bnraf7wpf7z/</link>
+      <title>'Bashful' is 'Blyger' in Swedish</title>
+      <description><![CDATA[<p>'Bashful' is 'Blyger' in Swedish</p>
+]]></description>
+      <pubDate>Sun, 15 Nov 2026 13:23:19 GMT</pubDate>
+      <dc:creator>Erik Stattin</dc:creator>
+      <blyg:id>4s52t7jxxwd0446bnraf7wpf7z</blyg:id>
+      <blyg:kind>fragment</blyg:kind>
+      <blyg:version>1</blyg:version>
+      <blyg:created>2026-11-15T13:23:19Z</blyg:created>
+      <blyg:item>https://bashful.se/items/4s52t7jxxwd0446bnraf7wpf7z.json</blyg:item>
+    </item>
   </channel>
 </rss>

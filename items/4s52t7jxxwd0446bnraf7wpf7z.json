@@ -1,0 +1,24 @@
+{
+  "blyg": "0.4",
+  "id": "4s52t7jxxwd0446bnraf7wpf7z",
+  "kind": "fragment",
+  "origin": "https://bashful.se/",
+  "page": "f/4s52t7jxxwd0446bnraf7wpf7z/",
+  "author": {
+    "name": "Erik Stattin"
+  },
+  "created": "2026-11-15T13:23:19Z",
+  "updated": "2026-11-15T13:23:19Z",
+  "version": 1,
+  "content_md": "'Bashful' is 'Blyger' in Swedish",
+  "content_html": "<p>'Bashful' is 'Blyger' in Swedish</p>\n",
+  "content_hash": "sha256:e232b575c3d2c8c441f6970efac09670856bdee13b2e6cd233f278b3341594cf",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-15T13:23:19Z",
+      "note": null
+    }
+  ]
+}
