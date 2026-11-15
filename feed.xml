@@ -4,9 +4,25 @@
     <title>bashful</title>
     <link>https://bashful.se/</link>
     <description>bashful</description>
-    <lastBuildDate>Sun, 15 Nov 2026 14:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:42:24 GMT</lastBuildDate>
     <blyg:level>2</blyg:level>
     <blyg:manifest>https://bashful.se/blyg.json</blyg:manifest>
+    <item>
+      <guid isPermaLink="false">blyg:01gvzy7wxkyp44kjhpavgnfj26:v1</guid>
+      <link>https://bashful.se/f/01gvzy7wxkyp44kjhpavgnfj26/</link>
+      <title>György Lukács, The Specificity of the Aesthetic</title>
+      <description><![CDATA[<ul>
+<li>György Lukács, <em>The Specificity of the Aesthetic</em></li>
+</ul>
+]]></description>
+      <pubDate>Sun, 15 Nov 2026 15:42:24 GMT</pubDate>
+      <dc:creator>Erik Stattin</dc:creator>
+      <blyg:id>01gvzy7wxkyp44kjhpavgnfj26</blyg:id>
+      <blyg:kind>fragment</blyg:kind>
+      <blyg:version>1</blyg:version>
+      <blyg:created>2026-11-15T15:42:24Z</blyg:created>
+      <blyg:item>https://bashful.se/items/01gvzy7wxkyp44kjhpavgnfj26.json</blyg:item>
+    </item>
     <item>
       <guid isPermaLink="false">blyg:29yn9x9ez6mwvym5xx6we5qefj:v1</guid>
       <link>https://bashful.se/f/29yn9x9ez6mwvym5xx6we5qefj/</link>

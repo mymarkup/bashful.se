@@ -1,0 +1,24 @@
+{
+  "blyg": "0.4",
+  "id": "01gvzy7wxkyp44kjhpavgnfj26",
+  "kind": "fragment",
+  "origin": "https://bashful.se/",
+  "page": "f/01gvzy7wxkyp44kjhpavgnfj26/",
+  "author": {
+    "name": "Erik Stattin"
+  },
+  "created": "2026-11-15T15:42:24Z",
+  "updated": "2026-11-15T15:42:24Z",
+  "version": 1,
+  "content_md": "- György Lukács, *The Specificity of the Aesthetic*\n",
+  "content_html": "<ul>\n<li>György Lukács, <em>The Specificity of the Aesthetic</em></li>\n</ul>\n",
+  "content_hash": "sha256:784afbf0ef4aa2e446384408ad8867d2b63a91e2169877319924afb980939d58",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-15T15:42:24Z",
+      "note": null
+    }
+  ]
+}
