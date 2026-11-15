@@ -1,0 +1,34 @@
+{
+  "blyg": "0.4",
+  "id": "4xwxbc3p5ae9q4y289z7dke9as",
+  "kind": "thread",
+  "origin": "https://bashful.se/",
+  "page": "t/4xwxbc3p5ae9q4y289z7dke9as/",
+  "author": {
+    "name": "Erik Stattin"
+  },
+  "created": "2026-11-15T17:05:14Z",
+  "updated": "2026-11-15T17:05:14Z",
+  "version": 1,
+  "content_md": "Noted books.\n\n![[01gvzy7wxkyp44kjhpavgnfj26]]\n\n![[2c2mwwp4dmzvs6hzfr7bvynjkj]]\n",
+  "content_html": "<p>Noted books.</p>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"01gvzy7wxkyp44kjhpavgnfj26\" data-blyg-version=\"1\"><ul>\n<li>György Lukács, <em>The Specificity of the Aesthetic</em></li>\n</ul>\n</blockquote>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"2c2mwwp4dmzvs6hzfr7bvynjkj\" data-blyg-version=\"1\"><ul>\n<li>William Marx, <em>Libraries of the Mind</em></li>\n</ul>\n</blockquote>\n",
+  "content_hash": "sha256:b609e794b32374e47e29c06d372948cef7990d4102aadb4382db7e99cb9eae20",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-15T17:05:14Z",
+      "note": null
+    }
+  ],
+  "transclusions": [
+    {
+      "id": "01gvzy7wxkyp44kjhpavgnfj26",
+      "version": 1
+    },
+    {
+      "id": "2c2mwwp4dmzvs6hzfr7bvynjkj",
+      "version": 1
+    }
+  ]
+}

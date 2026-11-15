@@ -4,9 +4,31 @@
     <title>bashful</title>
     <link>https://bashful.se/</link>
     <description>bashful</description>
-    <lastBuildDate>Sun, 15 Nov 2026 16:40:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:05:14 GMT</lastBuildDate>
     <blyg:level>2</blyg:level>
     <blyg:manifest>https://bashful.se/blyg.json</blyg:manifest>
+    <item>
+      <guid isPermaLink="false">blyg:4xwxbc3p5ae9q4y289z7dke9as:v1</guid>
+      <link>https://bashful.se/t/4xwxbc3p5ae9q4y289z7dke9as/</link>
+      <title>Noted books. György Lukács, The Specificity of the Aesthetic William Marx, Libr…</title>
+      <description><![CDATA[<p>Noted books.</p>
+<blockquote class="blyg-transclusion" data-blyg-id="01gvzy7wxkyp44kjhpavgnfj26" data-blyg-version="1"><ul>
+<li>György Lukács, <em>The Specificity of the Aesthetic</em></li>
+</ul>
+</blockquote>
+<blockquote class="blyg-transclusion" data-blyg-id="2c2mwwp4dmzvs6hzfr7bvynjkj" data-blyg-version="1"><ul>
+<li>William Marx, <em>Libraries of the Mind</em></li>
+</ul>
+</blockquote>
+]]></description>
+      <pubDate>Sun, 15 Nov 2026 17:05:14 GMT</pubDate>
+      <dc:creator>Erik Stattin</dc:creator>
+      <blyg:id>4xwxbc3p5ae9q4y289z7dke9as</blyg:id>
+      <blyg:kind>thread</blyg:kind>
+      <blyg:version>1</blyg:version>
+      <blyg:created>2026-11-15T17:05:14Z</blyg:created>
+      <blyg:item>https://bashful.se/items/4xwxbc3p5ae9q4y289z7dke9as.json</blyg:item>
+    </item>
     <item>
       <guid isPermaLink="false">blyg:2c2mwwp4dmzvs6hzfr7bvynjkj:v1</guid>
       <link>https://bashful.se/f/2c2mwwp4dmzvs6hzfr7bvynjkj/</link>
