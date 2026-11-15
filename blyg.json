@@ -1,0 +1,11 @@
+{
+  "blyg": "0.4",
+  "level": 2,
+  "generator": "blyg/0.1.0",
+  "site": "https://bashful.se/",
+  "title": "bashful",
+  "author": {
+    "name": "Erik Stattin"
+  },
+  "updated": "2026-11-15T13:06:05Z"
+}

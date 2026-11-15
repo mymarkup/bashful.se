@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:blyg="https://blygger.org/ns/0.1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>bashful</title>
+    <link>https://bashful.se/</link>
+    <description>bashful</description>
+    <blyg:level>2</blyg:level>
+    <blyg:manifest>https://bashful.se/blyg.json</blyg:manifest>
+  </channel>
+</rss>
