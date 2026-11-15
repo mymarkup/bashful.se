@@ -4,9 +4,23 @@
     <title>bashful</title>
     <link>https://bashful.se/</link>
     <description>bashful</description>
-    <lastBuildDate>Sun, 15 Nov 2026 14:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:19:11 GMT</lastBuildDate>
     <blyg:level>2</blyg:level>
     <blyg:manifest>https://bashful.se/blyg.json</blyg:manifest>
+    <item>
+      <guid isPermaLink="false">blyg:29yn9x9ez6mwvym5xx6we5qefj:v1</guid>
+      <link>https://bashful.se/f/29yn9x9ez6mwvym5xx6we5qefj/</link>
+      <title>(untitled)</title>
+      <description><![CDATA[<p><img src="https://bashful.se/media/7dd00f2e9301d328.jpg" alt="A thick, worn bundle of old handwritten pages, yellowed and frayed, spread open on a white background"></p>
+]]></description>
+      <pubDate>Sun, 15 Nov 2026 14:19:11 GMT</pubDate>
+      <dc:creator>Erik Stattin</dc:creator>
+      <blyg:id>29yn9x9ez6mwvym5xx6we5qefj</blyg:id>
+      <blyg:kind>fragment</blyg:kind>
+      <blyg:version>1</blyg:version>
+      <blyg:created>2026-11-15T14:19:11Z</blyg:created>
+      <blyg:item>https://bashful.se/items/29yn9x9ez6mwvym5xx6we5qefj.json</blyg:item>
+    </item>
     <item>
       <guid isPermaLink="false">blyg:1hjqsqhs23fcqrzgdpenyembsv:v1</guid>
       <link>https://bashful.se/t/1hjqsqhs23fcqrzgdpenyembsv/</link>

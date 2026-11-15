@@ -1,0 +1,30 @@
+{
+  "blyg": "0.4",
+  "id": "29yn9x9ez6mwvym5xx6we5qefj",
+  "kind": "fragment",
+  "origin": "https://bashful.se/",
+  "page": "f/29yn9x9ez6mwvym5xx6we5qefj/",
+  "author": {
+    "name": "Erik Stattin"
+  },
+  "created": "2026-11-15T14:19:11Z",
+  "updated": "2026-11-15T14:19:11Z",
+  "version": 1,
+  "content_md": "![A thick, worn bundle of old handwritten pages, yellowed and frayed, spread open on a white background](media/7dd00f2e9301d328.jpg)\n",
+  "content_html": "<p><img src=\"https://bashful.se/media/7dd00f2e9301d328.jpg\" alt=\"A thick, worn bundle of old handwritten pages, yellowed and frayed, spread open on a white background\"></p>\n",
+  "content_hash": "sha256:d4751e2cc2b7a9570208e4ec7b743bdb4dd7e4ce359515a2faf87f6b9e54cd10",
+  "media": [
+    {
+      "url": "media/7dd00f2e9301d328.jpg",
+      "mime": "image/jpeg",
+      "alt": "A thick, worn bundle of old handwritten pages, yellowed and frayed, spread open on a white background"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-15T14:19:11Z",
+      "note": null
+    }
+  ]
+}
